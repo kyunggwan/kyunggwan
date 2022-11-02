@@ -2,8 +2,10 @@
 
 <!--
 **kyunggwan/kyunggwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunggwan)](https://github.com/kyunggwan/github-readme-stats)
 Here are some ideas to get you started:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunggwan&langs_count=8)](https://github.com/kyunggwan/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
