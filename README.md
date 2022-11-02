@@ -1,11 +1,36 @@
-### Hi there 👋
+<div align=center><h1>Hello, I'm KyungGwan👋</h1></div>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyunggwan&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunggwan&layout=compact)](https://github.com/kyunggwan/github-readme-stats)
+
+### Platforms & Languages
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+***
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+***
+### Activity Graph
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kyunggwan&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+***
 
 <!--
-**kyunggwan/kyunggwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunggwan)](https://github.com/kyunggwan/github-readme-stats)
-Here are some ideas to get you started:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyunggwan&langs_count=8)](https://github.com/kyunggwan/github-readme-stats)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+
+
+깃허브 스탯, 테마 종류는 dark, dadical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyunggwan&show_icons=true&theme=dracula)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
