@@ -1,7 +1,7 @@
 <div align=center><h1>Hello, I'm KyungGwan👋</h1></div>
 
 ### Who Am I
-- 🌱 I’m learning Java, React, Algorithm, Database in Pusan National University
+- 🌱 I’m learning Java, React, Algorithm, Database in Busan National University
 - 🥇 I majored in Polymer Engineering
 
 
