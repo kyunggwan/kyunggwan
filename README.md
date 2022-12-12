@@ -22,7 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ***
 ### Activity Graph
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kyunggwan&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kyunggwan&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 ***
 
 <!--
