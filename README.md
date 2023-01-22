@@ -2,7 +2,7 @@
 
 ### Who Am I
 - 🌱 I’m learning Java, SpringBoot, JSP, Algorithm, Database, React in Busan National University
-- 🥇 I majored in Polymer Science & Engineering
+- 🥇 
 
 
 
