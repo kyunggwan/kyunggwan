@@ -2,8 +2,6 @@
 
 ### Who Am I
 - 🌱 I’m learning Java, SpringBoot, JPA, MySQL in Busan National University
-- 🥇 
-
 
 
 ### Platforms & Languages
