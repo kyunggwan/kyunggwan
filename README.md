@@ -1,7 +1,7 @@
 <div align=center><h1>Hello, I'm KyungGwan👋</h1></div>
 
 ### Who Am I
-- 🌱 I’m learning Java, SpringBoot, JPA, MySQL in Busan National University
+- 🌱 I’m learning Java, SpringBoot, JPA, MySQL in Busan National Universitya
 
 
 ### Platforms & Languages
