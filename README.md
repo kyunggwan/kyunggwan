@@ -2,7 +2,7 @@
 
 ### Who Am I
 - 🌱 I’m learning Java, SpringBoot, JPA, MySQL in Busan National University
-ㄷ
+
 
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
