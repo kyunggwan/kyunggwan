@@ -27,7 +27,6 @@
 <!-- ### Activity Graph 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=kyunggwan&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
  *** -->
-ㅇ
 <!--
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
