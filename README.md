@@ -3,7 +3,6 @@
 ### Who Am I
 - 🌱 I’m learning Java, SpringBoot, JPA, MySQL in Busan National University
 
-
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
@@ -30,6 +29,9 @@
 <!--
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyunggwan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 깃허브 스탯, 테마 종류는 dark, dadical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
