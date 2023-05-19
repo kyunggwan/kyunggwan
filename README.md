@@ -1,8 +1,5 @@
 <div align=center><h1>Hello, I'm KyungGwan👋</h1></div>
 
-### Who Am I
-
-
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
@@ -37,6 +34,7 @@
 깃허브 스탯, 테마 종류는 dark, dadical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyunggwan&show_icons=true&theme=dracula)
 
+l
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
